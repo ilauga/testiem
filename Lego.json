@@ -1,0 +1,14 @@
+{
+  "title": "My Lego setlist",
+  "legos": [
+    { "id": "1", "title": "Diagon Alley", "number": "75978", "series": "Harry Potter", "details": "5544", "minifigures": "14" },
+    { "id": "2", "title": "Hogwarts wizard's chess", "number": "76392", "series": "Harry Potter", "details": "876", "minifigures": "4" },
+    { "id": "3", "title": "Hogsmeade village visit", "number": "76388", "series": "Harry Potter", "details": "851", "minifigures": "7" }
+    { "id": "4", "title": "Darth Vade Helmet", "number": "75304", "series": "Star Wars", "details": "834", "minifigures": "0" },
+    { "id": "5", "title": "Millennium Falcon", "number": "75257", "series": "Star Wars", "details": "1353", "minifigures": "5" },
+    { "id": "6", "title": "LEGO Star Wars Advent Calendar 2021", "number": "75307", "series": "Star Wars", "details": "335", "minifigures": "7" },
+    { "id": "7", "title": "Hogwarts Clock Tower", "number": "75948", "series": "Harry Potter", "details": "922", "minifigures": "8" },
+    { "id": "8", "title": "Medieval Blacksmith", "number": "21325", "series": "Ideas", "details": "2164", "minifigures": "4" },
+    { "id": "9", "title": "Ship in a Bottle", "number": "92177", "series": "Ideas", "details": "962", "minifigures": "0" },
+  ]
+}
