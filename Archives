@@ -1,1 +1,7 @@
-
+{
+  "title": "My Library Booklist",
+  "archives": [
+    { "id": "1", "name": "Books"},
+    { "id": "2", "name": "Legos"},
+  ]
+}
