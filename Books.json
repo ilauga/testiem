@@ -5,9 +5,9 @@
     { "id": "2", "title": "Ulysses", "releaseYear": "", "author": "", "ISBN": ""},
     { "id": "3", "title": "Pride and Prejudice", "releaseYear": "2019", "author": "Jane Austen", "ISBN": "1840227931"},
     { "id": "4", "title": "Sense and Sensibility", "releaseYear": "2020", "author": "Jane AUsten", "ISBN": "1840228008"},
-    { "id": "5", "title": "Hamlet", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
+    { "id": "5", "title": "Hamlet", "releaseYear": "2011", "author": "William Shakespeare", "ISBN": "1613820917"}    ,
     { "id": "5", "title": "A Midsummer Night's Dream", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
-    { "id": "5", "title": "Romeo and Juliet", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
+    { "id": "5", "title": "Romeo and Juliet", "releaseYear": "2021", "author": "William Shakespeare", "ISBN": "1505259568"}    ,
     { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
     { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
     { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}
