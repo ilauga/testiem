@@ -1,7 +1,7 @@
 {
   "title": "My Library Booklist",
   "myarchives": [
-    { "id": "1", "name": "Books", "picUrl": "Lego.png"},
+    { "id": "1", "name": "Books", "picUrl": "'Lego.png'"},
     { "id": "2", "name": "Legos", "picUrl": "Books.jpg"}
   ]
 }
