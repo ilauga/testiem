@@ -1,0 +1,6 @@
+{
+  "title": "My Lego setlist",
+  "legos": [
+    { "id": "1", "title": "Diagon Alley", "number": "75978", "series": "Harry Potter", "details": "5544", "minifigures": "14" },
+  ]
+}
