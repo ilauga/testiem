@@ -1,5 +1,5 @@
 {
-  "title": "My Lego setlist",
+  "title": "My Library Booklist",
   "legos": [
     { "id": "1", "title": "Harry Potter and the Sorcerer's Stone", "releaseYear": "1998", "author": "J.K.Rowling", "ISBN": "9780590353427" },
     { "id": "2", "title": "Ulysses", "releaseYear": "", "author": "", "ISBN": ""},
