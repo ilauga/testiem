@@ -1,6 +1,15 @@
 {
   "title": "My Lego setlist",
   "legos": [
-    { "id": "1", "title": "Diagon Alley", "number": "75978", "series": "Harry Potter", "details": "5544", "minifigures": "14" },
+    { "id": "1", "title": "Harry Potter and the Sorcerer's Stone", "releaseYear": "1998", "author": "J.K.Rowling", "ISBN": "9780590353427" },
+    { "id": "2", "title": "Ulysses", "releaseYear": "", "author": "", "ISBN": ""},
+    { "id": "3", "title": "Pride and Prejudice", "releaseYear": "2019", "author": "Jane Austen", "ISBN": "1840227931"},
+    { "id": "4", "title": "Sense and Sensibility", "releaseYear": "2020", "author": "Jane AUsten", "ISBN": "1840228008"},
+    { "id": "5", "title": "Hamlet", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
+    { "id": "5", "title": "A Midsummer Night's Dream", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
+    { "id": "5", "title": "Romeo and Juliet", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
+    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
+    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
+    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}
   ]
 }
