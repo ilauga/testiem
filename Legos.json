@@ -1,15 +1,14 @@
 {
   "title": "My Library Booklist",
   "legos": [
-    { "id": "1", "title": "Harry Potter and the Sorcerer's Stone", "releaseYear": "1998", "author": "J.K.Rowling", "ISBN": "9780590353427" },
-    { "id": "2", "title": "Ulysses", "releaseYear": "", "author": "", "ISBN": ""},
-    { "id": "3", "title": "Pride and Prejudice", "releaseYear": "2019", "author": "Jane Austen", "ISBN": "1840227931"},
-    { "id": "4", "title": "Sense and Sensibility", "releaseYear": "2020", "author": "Jane AUsten", "ISBN": "1840228008"},
-    { "id": "5", "title": "Hamlet", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
-    { "id": "5", "title": "A Midsummer Night's Dream", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
-    { "id": "5", "title": "Romeo and Juliet", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
-    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
-    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
-    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}
+    { "id": "1", "title": "Diagon Alley", "number": "75978", "series": "Harry Potter", "details": "5544", "minifigures": "14" },
+    { "id": "2", "title": "Hogwarts wizard's chess", "number": "76392", "series": "Harry Potter", "details": "876", "minifigures": "4" },
+    { "id": "3", "title": "Hogsmeade village visit", "number": "76388", "series": "Harry Potter", "details": "851", "minifigures": "7" },
+    { "id": "4", "title": "Darth Vade Helmet", "number": "75304", "series": "Star Wars", "details": "834", "minifigures": "0" },
+    { "id": "5", "title": "Millennium Falcon", "number": "75257", "series": "Star Wars", "details": "1353", "minifigures": "5" },
+    { "id": "6", "title": "LEGO Star Wars Advent Calendar 2021", "number": "75307", "series": "Star Wars", "details": "335", "minifigures": "7" },
+    { "id": "7", "title": "Hogwarts Clock Tower", "number": "75948", "series": "Harry Potter", "details": "922", "minifigures": "8" },
+    { "id": "8", "title": "Medieval Blacksmith", "number": "21325", "series": "Ideas", "details": "2164", "minifigures": "4" },
+    { "id": "9", "title": "Ship in a Bottle", "number": "92177", "series": "Ideas", "details": "962", "minifigures": "0" }
   ]
 }
