@@ -2,14 +2,14 @@
   "title": "My Library Booklist",
   "books": [
     { "id": "1", "title": "Harry Potter and the Sorcerer's Stone", "releaseYear": "1998", "author": "J.K.Rowling", "ISBN": "9780590353427" },
-    { "id": "2", "title": "Ulysses", "releaseYear": "", "author": "", "ISBN": ""},
+    { "id": "2", "title": "Ulysses", "releaseYear": "2010", "author": "James Joyce", "ISBN": "9781840226355"},
     { "id": "3", "title": "Pride and Prejudice", "releaseYear": "2019", "author": "Jane Austen", "ISBN": "1840227931"},
     { "id": "4", "title": "Sense and Sensibility", "releaseYear": "2020", "author": "Jane AUsten", "ISBN": "1840228008"},
     { "id": "5", "title": "Hamlet", "releaseYear": "2011", "author": "William Shakespeare", "ISBN": "1613820917"}    ,
-    { "id": "5", "title": "A Midsummer Night's Dream", "releaseYear": "", "author": "William Shakespeare", "ISBN": ""}    ,
-    { "id": "5", "title": "Romeo and Juliet", "releaseYear": "2021", "author": "William Shakespeare", "ISBN": "1505259568"}    ,
-    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
-    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}    ,
-    { "id": "5", "title": "", "releaseYear": "", "author": "", "ISBN": ""}
+    { "id": "6", "title": "A Midsummer Night's Dream", "releaseYear": "2020", "author": "William Shakespeare", "ISBN": "1503250784"}    ,
+    { "id": "7", "title": "Romeo and Juliet", "releaseYear": "2021", "author": "William Shakespeare", "ISBN": "1505259568"}    ,
+    { "id": "8", "title": "The Odyssey", "releaseYear": "1999", "author": "Homer", "ISBN": "9780140268867"}    ,
+    { "id": "9", "title": "War and Peace", "releaseYear": "2008", "author": "Leo Tolstoy", "ISBN": "1400079985"}    ,
+    { "id": "10", "title": "The Great Gatsby", "releaseYear": "2004", "author": "F. Scott Fitzgerald", "ISBN": "9780743273565"}
   ]
 }
