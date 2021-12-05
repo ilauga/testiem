@@ -4,7 +4,7 @@
     { "id": "1", "title": "Harry Potter and the Sorcerer's Stone", "releaseYear": "1998", "author": "J.K.Rowling", "ISBN": "9780590353427", "cover": "Books.jpg" },
     { "id": "2", "title": "Ulysses", "releaseYear": "2010", "author": "James Joyce", "ISBN": "9781840226355", "cover": "Books.jpg"},
     { "id": "3", "title": "Pride and Prejudice", "releaseYear": "2019", "author": "Jane Austen", "ISBN": "1840227931", "cover": "Books.jpg"},
-    { "id": "4", "title": "Sense and Sensibility", "releaseYear": "2020", "author": "Jane AUsten", "ISBN": "1840228008", "cover": "Books.jpg"},
+    { "id": "4", "title": "Sense and Sensibility", "releaseYear": "2020", "author": "Jane Austen", "ISBN": "1840228008", "cover": "Books.jpg"},
     { "id": "5", "title": "Hamlet", "releaseYear": "2011", "author": "William Shakespeare", "ISBN": "1613820917", "cover": "BookHamlet.jpg"}    ,
     { "id": "6", "title": "A Midsummer Night's Dream", "releaseYear": "2020", "author": "William Shakespeare", "ISBN": "1503250784", "cover": "Books.jpg"}    ,
     { "id": "7", "title": "Romeo and Juliet", "releaseYear": "2021", "author": "William Shakespeare", "ISBN": "1505259568", "cover": "Books.jpg"}    ,
